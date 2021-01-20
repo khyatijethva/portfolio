@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-
     <!-- About Me -->
     <div class="mccan page">
         <h3 class="title-small">Web Developer</h3>

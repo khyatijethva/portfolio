@@ -1,5 +1,6 @@
 <?php include 'header.php';?>
 
+
     <div class="mccan page">
         <h3 class="title-small">LOCATION</h3>
         <h2 class="title">Contact Me</h2>

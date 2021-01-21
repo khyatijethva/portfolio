@@ -305,7 +305,7 @@ object {
 
 a,
 a:hover {
-    color: #F68338;
+    color: #ef3251;
 }
 
 a {
@@ -437,8 +437,8 @@ input[type="checkbox"] {
 
 .btn:hover {
     color: #fff;
-    background-color: #F68338;
-    border: 1px solid #F68338;
+    background-color: #ef3251;
+    border: 1px solid #ef3251;
 }
 
 
@@ -1065,7 +1065,7 @@ input[type="checkbox"] {
     .hero-media .owl-carousel .owl-expand a:hover,
     .hero-media .owl-carousel .owl-nav a:focus,
     .hero-media .owl-carousel .owl-expand a:focus {
-        color: #F68338;
+        color: #ef3251;
     }
 }
 
@@ -1672,7 +1672,7 @@ input[type="checkbox"] {
     height: 40px;
     line-height: 40px;
     color: #fff;
-    background-color: #F68338;
+    background-color: #ef3251;
     font-size: 15px;
     text-align: center;
     text-decoration: none;
@@ -1688,12 +1688,12 @@ input[type="checkbox"] {
 
 @media (min-width: 992px) {
     .site-menu-toggle a {
-        background-color: #F68338;
+        background-color: #ef3251;
     }
 
     .expanded-hero .site-menu-toggle a,
     .fullpage .site-menu-toggle a {
-        background-color: #F68338;
+        background-color: #ef3251;
     }
 }
 
@@ -1705,7 +1705,7 @@ input[type="checkbox"] {
 .site-menu-toggle a:focus,
 .mobile-menu-opened .site-menu-toggle a:hover,
 .mobile-menu-opened .site-menu-toggle a:focus {
-    background-color: #F68338;
+    background-color: #ef3251;
     color: #fff;
 }
 
@@ -1720,7 +1720,7 @@ input[type="checkbox"] {
 }
 
 .mobile-menu-opened .site-menu-toggle a {
-    background-color: #F68338;
+    background-color: #ef3251;
     color: #fff;
     color: inherit;
 }
@@ -1772,7 +1772,7 @@ input[type="checkbox"] {
 }
 
 .nav-menu .current-menu-item > a {
-    color: #F68338;
+    color: #ef3251;
 }
 
 @media (max-width: 1199px) {
@@ -1857,14 +1857,14 @@ input[type="checkbox"] {
         content: "\e64b";
         font-family: 'Themify';
         font-size: 10px;
-        color: #F68338;
+        color: #ef3251;
     }
 
     .nav-menu .menu-item-has-children.collapse > .menu-expand:before {
         content: "\e648";
         font-family: 'Themify';
         font-size: 10px;
-        color: #F68338;
+        color: #ef3251;
     }
 
     .nav-menu .menu-item-has-children ul {
@@ -2010,19 +2010,19 @@ input[type="checkbox"] {
     .nav-menu > ul > li.hover > a:after,
     .nav-menu > ul > li > a:focus:after {
         bottom: 6px;
-        background-color: #F68338;
+        background-color: #ef3251;
     }
 
     .light-hero-colors .nav-menu > ul > li > a:hover:after,
     .light-hero-colors .nav-menu > ul > li.hover > a:after,
     .light-hero-colors .nav-menu > ul > li > a:focus:after {
-        background-color: #F68338;
+        background-color: #ef3251;
     }
 
     #site-menu .nav-menu > ul > .current-menu-item > a:after,
     #site-menu .nav-menu > ul > .current-menu-parent > a:after {
         bottom: 6px;
-        background-color: #F68338;
+        background-color: #ef3251;
     }
 
     .nav-menu .menu-item-has-children ul {
@@ -2085,7 +2085,7 @@ input[type="checkbox"] {
     .nav-menu .menu-item-has-children li a:hover {
         display: block;
         margin: 0;
-        color: #F68338;
+        color: #ef3251;
     }
 
     .nav-menu .menu-item-has-children li .menu-expand {
@@ -2346,13 +2346,13 @@ input[type="checkbox"] {
 }
 
 .expanded-hero .social-menu a:hover {
-    background-color: #F68338;
+    background-color: #ef3251;
     color: #fff;
 }
 
 @media (min-width: 992px) {
     .social-menu a {
-        background-color: #F68338;
+        background-color: #ef3251;
     }
 
     .fullpage .social-menu a {
@@ -2362,7 +2362,7 @@ input[type="checkbox"] {
 
 @media (min-width: 1200px) {
     .social-menu a {
-        background-color: #F68338;
+        background-color: #ef3251;
     }
 }
 
@@ -2422,7 +2422,7 @@ input[type="checkbox"] {
     font-family: 'Oswald', sans-serif;
     font-size: 12px;
     text-transform: uppercase;
-    color: #F68338;
+    color: #ef3251;
     font-weight: 400;
     letter-spacing: 5px;
 }
@@ -2595,7 +2595,7 @@ input[type="checkbox"] {
     font-family: 'Rambla', sans-serif;
     padding: 0;
 
-    color: #F68338;
+    color: #ef3251;
 }
 
 .fullpage .my-info {
@@ -3025,7 +3025,7 @@ input[type="checkbox"] {
 
 .my-info .box .field .dropdown ul .selected a {
     font-weight: 500;
-    background-color: #F68338;
+    background-color: #ef3251;
 }
 
 .my-info .box a.button-color {
@@ -3038,7 +3038,7 @@ input[type="checkbox"] {
     font-size: 15px;
     font-weight: 400;
     font-family: 'Oswald', sans-serif;
-    background: #F68338;
+    background: #ef3251;
     letter-spacing: 2px;
     color: #fff;
     text-align: center;
@@ -3228,7 +3228,7 @@ input[type="checkbox"] {
     font-family: 'Oswald', sans-serif;
     font-size: 12px;
     text-transform: uppercase;
-    color: #F68338;
+    color: #ef3251;
     font-weight: 400;
     letter-spacing: 5px;
 }
@@ -3343,7 +3343,7 @@ input[type="checkbox"] {
 
 .feature-left span {
     width: 45px;
-    color: #F68338;
+    color: #ef3251;
 }
 
 .font-30px {
@@ -3391,8 +3391,8 @@ input[type="checkbox"] {
 }
 
 .timeline > li:hover .timeline-content:before {
-    background-color: #F68338;
-    border: 1px solid #F68338;
+    background-color: #ef3251;
+    border: 1px solid #ef3251;
 }
 
 .timeline > li .timeline-content {
